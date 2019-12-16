@@ -2,6 +2,7 @@ class SeasController < ApplicationController
   #define your controller actions here
 
 
+
   private
   # In controller actions, use this private method to access sea params from forms.
   # Example: @sea.update(sea_params)
